@@ -4,6 +4,11 @@ Welcome to the **Rick and Morty API Explorer**! 🌌 This project is your gatewa
 
 ---
 
+## 🌐 View Online
+You can view the project live at the following link: [Rick and Morty API Explorer](https://xmarioop.github.io/rick-and-morty-api-explorer/)
+
+---
+
 ## 🛠 Features
 - **Character Navigation**: Browse through a vast array of characters.
 - **Detailed View**: Get insights into each character's name, species, and image.
