@@ -36,7 +36,6 @@ Follow these steps to set up the project locally:
 
 ## 🚀 Usage
 - Click on the navigation buttons to explore the characters.
-- Click on a character's image to open it in a new tab.
 
 ---
 
